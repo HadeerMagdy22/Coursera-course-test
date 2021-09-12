@@ -75,14 +75,9 @@ font-weight: bold;
 overflow: auto;
 }
 
-section{
-    margin: 0;
-    width: 100px;
-    height: 50px;
+.chicken{
     text-align: center;
     padding-top:10px;
-   justify-content: center;
-   align-items: center;
     font-size: 1.5em;
     padding-bottom: 10px;
    
